@@ -1,15 +1,9 @@
 
 Memory updated
 
-
-
-
 -👋 Hi, I’m @TinevimboMusingadi  
 -👀 I’m interested in Machine Learning and Robotics  
 -🌱 I’m currently learning and finishing high school on a gap year  
--💻 Inventor | Crafting Innovative Solutions in Science, Finance, and Beyond with Cutting-edge Machine Learning 📈 and Scientific Computing  
--📫 How to reach me: tinevimbo@type1ai.com  
--😄 Pronouns: him  
 -⚡ Fun fact: I invented a smart AI-powered last-minute flood forecasting and warning device for rural areas, building it entirely on my own without formal computer science education before LLms and Vibe coding hahah.  
 -🚀 Passionate about astronomy, applied ML in science, and finance.
 <!---
