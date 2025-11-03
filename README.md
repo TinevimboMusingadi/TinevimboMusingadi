@@ -2,7 +2,8 @@
 Memory updated
 -👋 Hi, I’m @TinevimboMusingadi  
 -👀 I’m interested in Machine Learning,Ai Engineering, building Safe State of the Art AI-Agents.
--'_' In my spare time i am building and Ai data Scientist and Accountant. 
+-'_' In my spare time i am building and Ai data Scientist and Accountant.
+
 -🌱 I’m currently an Information Security major at Harare Institute of Technology  
 -⚡ Fun fact: I invented a smart AI-powered last-minute flood forecasting and warning device for rural areas, building it entirely on my own without formal computer science education before LLms and Vibe coding hahah. 
 <!---
