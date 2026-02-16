@@ -1,12 +1,6 @@
-
-Memory updated
--👋 Hi, I’m @TinevimboMusingadi  
--👀 I’m interested in Machine Learning,Ai Engineering, building Safe State of the Art AI-Agents.
-
-'_' In my spare time i am building and Ai data Scientist an Accountant
--🌱 I’m currently an Information Security major at Harare Institute of Technology  
--⚡ Fun fact: I invented a smart AI-powered last-minute flood forecasting and warning device for rural areas, building it entirely on my own without formal computer science education before LLms and Vibe coding hahah. 
-<!---
-TinevimboMusingadi/TinevimboMusingadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-👋 Hi, I’m Tinevimbo Musingadi aka King Tine 
+-👀 I’m interested in Machine Learning,Ai Engineering, building Safe State of the Art Appied Ai systems.
+-🌱 I’m currently an Information Security major at Harare Institute of Technology, which is just cycber security with class on regulations. 
+-i want to bridge my interest in ML with security to buidlin the cutting edge systems, not yet imaginable. 
+-I love a good old challege and i am really creative in here you project form tracking agents to a search engine for pdfs. 
+-⚡ Fun fact: I invented a smart AI-powered last-minute flood forecasting and warning device for rural areas, building it entirely on my own without formal computer science education before LLms and Vibe coding hah
