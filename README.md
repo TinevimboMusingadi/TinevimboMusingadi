@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tinevimbo Musingadi, aka King Tine
+### 👋 Hi, I’m Tinevimbo Musingadi, aka King Tine
 
 - 👀 **Interests**
   - Machine Learning & AI Engineering
