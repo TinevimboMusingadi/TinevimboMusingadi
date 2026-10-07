@@ -1,7 +1,41 @@
-### 👋 Hi, I’m Tinevimbo Musingadi aka King Tine!
+<p align="center">
+  <img src="assets/header.jpg" alt="Neural and Silicon Art" width="100%" />
+</p>
 
-- 👀 I’m interested in Machine Learning, AI Engineering, and building safe, state-of-the-art Applied AI systems.
-- 🌱 I’m currently an Information Security major at Harare Institute of Technology (think cybersecurity + compliance).
-- 🤝 I want to bridge my interest in ML with security to build cutting-edge systems that aren't even imaginable yet.
-- 🛠️ I love a good old challenge and I am really creative. In my repositories, you'll find projects ranging from tracking agents to a search engine for PDFs.
-- ⚡ **Fun fact:** I invented a smart, AI-powered flood forecasting and warning device for rural areas, building it entirely on my own without formal CS education—before LLMs and vibe coding were even a thing!
+# Tinevimbo Musingadi
+
+**Information Security & Assurance student at Harare Institute of Technology (HIT).**  
+Focused on the intersection of AI research and systems engineering.
+
+---
+
+### Focus
+
+- **AI Research:** Mechanistic interpretability (understanding internal representations and circuit dynamics) and Reinforcement Learning in LLMs (GRPO, adaptive compute, and reasoning modes).
+- **Inference & Systems Engineering:** Writing low-latency inference software, speculative decoding (SSD / Saguaro), and distributed multi-host training across TPU clusters with JAX and MaxText.
+- **Security & Systems:** Bringing a security-first foundation to autonomous systems, verified backends, and cryptographic primitives.
+
+---
+
+### Selected Work
+
+- **[knowing-when-to-think-fast-slow](https://github.com/TinevimboMusingadi/knowing-when-to-think-fast-slow)** — Dynamic System 1 vs. System 2 compute allocation in language models.
+- **[GRPO-tpu2](https://github.com/TinevimboMusingadi/GRPO-tpu2)** — Multi-host RL training on Google TPU v6e-64 clusters using MaxText and Cluster Toolkit.
+- **[ssd-tpu-](https://github.com/TinevimboMusingadi/ssd-tpu-)** — Speculative Speculative Decoding on Google TPUs using JAX (Gemma & Qwen).
+- **[lm-world-model](https://github.com/TinevimboMusingadi/lm-world-model)** — Investigating if small LMs can internalize execution rules to simulate computation instead of memorizing tokens.
+- **[OmniEmbed](https://github.com/TinevimboMusingadi/OmniEmbed)** — Reverse-engineering universal multimodal embeddings from Qwen3-Omni.
+- **[sft-tpu](https://github.com/TinevimboMusingadi/sft-tpu)** — Supervised fine-tuning pipeline on single v6e-8 TPU instances using MaxText and JAX.
+- **[Gemma-4-tpu-inference](https://github.com/TinevimboMusingadi/Gemma-4-tpu-inference)** — High-throughput serving of Gemma 4 IT with vLLM on Ironwood TPUs.
+- **[VLM-Image-search](https://github.com/TinevimboMusingadi/VLM-Image-search)** — Multimodal retrieval engine built using Qwen3-VL embeddings for zero-shot text-to-image search.
+- **[J-nuerons](https://github.com/TinevimboMusingadi/J-nuerons)** — Mechanistic interpretability research exploring neuron-level specialization and circuits.
+- **[VLM-Distillation](https://github.com/TinevimboMusingadi/VLM-Distillation)** — Distilling frontier vision-language models into compact, efficient VLMs.
+
+---
+
+<p align="center">
+  <a href="https://github.com/TinevimboMusingadi">GitHub</a> &nbsp;•&nbsp; 
+  <a href="https://www.linkedin.com/in/kingtine">LinkedIn</a>
+</p>
+
+
+
